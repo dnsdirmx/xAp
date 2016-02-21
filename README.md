@@ -1,2 +1,2 @@
 # xAp
-Its a GUI for create_ap script
+Its a GUI for create_ap
